@@ -6,7 +6,7 @@ Para usar esses componentes e recursos, basta seguir os seguintes passos:
 
 1-Clone o repositório para o seu ambiente de desenvolvimento:
 ```javascript
-git clone https://github.com/seu-username/layout-Intuitivo.git
+git clone https://github.com/joaoabo/layout-Intuitivo.git
 ```
 2-Instale as dependências necessárias:
 ```csharp
