@@ -21,8 +21,8 @@ npm install
 ### Estrutura do repositório
 * Vamos ter a pasta principal, que é o nome do repositório. E dentro vamos crias varios outros mini projetos com seu proprio README, explicando sua funcionalidade.
 * `miniProj/src/components/`: pasta que contém vários componentes React reutilizáveis
-* `src/utils/`: pasta que contém funções JavaScript e utilitários reutilizáveis
-* `src/animations/`: pasta que contém animações em HTML e CSS reutilizáveis
+* `miniProj/src/utils/`: pasta que contém funções JavaScript e utilitários reutilizáveis
+* `miniProj/src/animations/`: pasta que contém animações em HTML e CSS reutilizáveis
 ## Contribuindo
 Esse repositório é um projeto aberto e qualquer ajuda é bem-vinda! Se você quiser contribuir, siga os passos abaixo:
 
